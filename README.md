@@ -30,3 +30,17 @@ Trainer Performance Feedback Platform allows **trainees** to submit feedback (ra
 - **Other Tools**: Git, VS Code
 
 ---
+📚 Project Motivation
+Most existing systems for trainer feedback are manual, infrequent, or biased. This platform was developed to provide a real-time, secure, and scalable system that empowers trainees to share feedback and helps trainers improve via continuous performance monitoring.
+---
+📈 Future Scope
+---
+Integrate Sentiment Analysis on comments
+Add Mobile App Support
+AI-based trainer recommendations
+Export reports as PDF/CSV
+
+---
+📄 License
+---
+This project is open-source and available under the MIT License.
